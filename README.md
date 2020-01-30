@@ -21,7 +21,7 @@ Temperature, temperatureHigh, temperatureLow, temperatureMax, temperatureMin</dd
 <dl><dt>Wind Speed</dt><dd>windGust, windSpeed</dd></dl>
 <dl><dt>Distance</dt><dd>nearest-station, nearestStormDistance, visibility</dd></dl>
 <dl><dt>Intensity</dt><dd>precipIntensity, precipIntensityMax</dd></dl>
-<dl><dt>Accumulation</dt><dd>precipAccumulation</dd></dl>
+<dl><dt>Accumulation</dt><dd>precipAccumulation(snowfall)</dd></dl>
 <dl><dt>Pressure</dt><dd>pressure</dd></dl>
 
 

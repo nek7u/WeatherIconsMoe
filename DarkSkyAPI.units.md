@@ -7,8 +7,8 @@
 |Temperature|**°C**<br>(Degrees Celsius)|**°C**<br>(Degrees Celsius)|**°C**<br>(Degrees Celsius)|**°F**<br>(Degrees Fahrenheit)|-|
 |Wind Speed|**m/s**<br>(Meteres per second)|**km/h**<br>(Kilometers per hour)|**mph**<br>(Miles per hour)|**mph**<br>(Miles per hour)|-|
 |Distance|**km**<br>(Kilometers)|**km**<br>(Kilometers)|**mi**<br>(Miles)|**mi**<br>(Miles)|-|
-|Intensity|**mm/h**<br>(Millimeters per hour)|**mm/h**<br>(Millimeters per hour)|**mm/h**<br>(Millimeters per hour)|**in/h**<br>(Inches per hour)|-|
-|Accumulation|**cm**<br>(Centimeters)|**cm**<br>(Centimeters)|**cm**<br>(Centimeters)|**in**<br>(Inches)|-|
+|Precip Intensity|**mm/h**<br>(Millimeters per hour)|**mm/h**<br>(Millimeters per hour)|**mm/h**<br>(Millimeters per hour)|**in/h**<br>(Inches per hour)|-|
+|Precip Accumulation|**cm**<br>(Centimeters)|**cm**<br>(Centimeters)|**cm**<br>(Centimeters)|**in**<br>(Inches)|-|
 |Pressure|**hPa**<br>(Hectopascals)|**hPa**<br>(Hectopascals)|**hPa**<br>(Hectopascals)|**mbar**<br>(Millibar)|-|
 
 

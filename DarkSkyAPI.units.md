@@ -12,14 +12,13 @@
 |Pressure|**hPa**<br>(Hectopascals)|**hPa**<br>(Hectopascals)|**hPa**<br>(Hectopascals)|**mbar**<br>(Millibar)|-|
 
 
-<dl><dt>Temperature</dt><dd>apparentTemperatureHigh, apparentTemperatureHigh, apparentTemperatureLow, dewPoint,
-Temperature, temperatureHigh, temperatureLow, temperatureMax, temperatureMin</dd></dl>
+<dl><dt>Temperature</dt><dd>apparentTemperatureHigh*, apparentTemperatureLow*, apparentTemperatureMax, apparentTemperatureMin, dewPoint, Temperature, temperatureHigh*, temperatureLow*, temperatureMax, temperatureMin</dd></dl>
+~~deprecated~~
 <dl><dt>Wind Speed</dt><dd>windGust, windSpeed</dd></dl>
 <dl><dt>Distance</dt><dd>nearest-station, nearestStormDistance, visibility</dd></dl>
 <dl><dt>Precip Intensity</dt><dd>precipIntensity, precipIntensityMax</dd></dl>
 <dl><dt>Precip Accumulation (snowfall)</dt><dd>precipAccumulation</dd></dl>
 <dl><dt>Pressure</dt><dd>pressure</dd></dl>
-
 
 ### Common
 <dl><dt>% (Percent)</dt><dd>cloudCover, humidity, precipProbability</dd></dl>
@@ -37,3 +36,4 @@ Temperature, temperatureHigh, temperatureLow, temperatureMax, temperatureMin</dd
 [Metrication Conversion process](https://en.wikipedia.org/wiki/Metrication#Conversion_process)
 
 [Dobson units](https://en.wikipedia.org/wiki/Dobson_unit)
+

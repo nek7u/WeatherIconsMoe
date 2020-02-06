@@ -12,7 +12,7 @@
 |Pressure|**hPa**<br>(Hectopascals)|**hPa**<br>(Hectopascals)|**hPa**<br>(Hectopascals)|**mbar**<br>(Millibar)|-|
 
 
-<dl><dt>Temperature</dt><dd><del>apparentTemperatureHigh</del>, <del>apparentTemperatureLow</del>, apparentTemperatureMax, apparentTemperatureMin, dewPoint, Temperature, <del>temperatureHigh<del/>, <del>temperatureLow</del>, temperatureMax, temperatureMin</dd></dl>
+<dl><dt>Temperature</dt><dd><del>apparentTemperatureHigh</del>, <del>apparentTemperatureLow</del>, apparentTemperatureMax, apparentTemperatureMin, dewPoint, Temperature, <del>temperatureHigh</del>, <del>temperatureLow</del>, temperatureMax, temperatureMin</dd></dl>
 <em>    deprecated</em>
 <dl><dt>Wind Speed</dt><dd>windGust, windSpeed</dd></dl>
 <dl><dt>Distance</dt><dd>nearest-station, nearestStormDistance, visibility</dd></dl>

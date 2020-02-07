@@ -36,7 +36,7 @@
 **° (Degrees)**  
 `nearestStormBearing`, `windBearing`
 
-**DU (Dobson units)**  
+**DU ([Dobson units](https://en.wikipedia.org/wiki/Dobson_unit))**  
 `ozone`
 
 
@@ -49,4 +49,4 @@
 
 [Metrication Conversion process](https://en.wikipedia.org/wiki/Metrication#Conversion_process)
 
-[Dobson units](https://en.wikipedia.org/wiki/Dobson_unit)
+

@@ -11,19 +11,33 @@
 |Precip Accumulation|**cm**<br>(Centimeters)|**cm**<br>(Centimeters)|**cm**<br>(Centimeters)|**in**<br>(Inches)|-|
 |Pressure|**hPa**<br>(Hectopascals)|**hPa**<br>(Hectopascals)|**hPa**<br>(Hectopascals)|**mbar**<br>(Millibar)|-|
 
+**Temperature**  
+~~`apparentTemperatureHigh`~~, ~~`apparentTemperatureLow`~~, `apparentTemperatureMax`, `apparentTemperatureMin`, `dewPoint`, `Temperature`, ~~`temperatureHigh`~~, ~~`temperatureLow`~~, `temperatureMax`, `temperatureMin`  
 
-<dl><dt>Temperature</dt><dd><del>apparentTemperatureHigh</del>, <del>apparentTemperatureLow</del>, apparentTemperatureMax, apparentTemperatureMin, dewPoint, Temperature, <del>temperatureHigh</del>, <del>temperatureLow</del>, temperatureMax, temperatureMin</dd></dl>
-<em>    deprecated</em>
-<dl><dt>Wind Speed</dt><dd>windGust, windSpeed</dd></dl>
-<dl><dt>Distance</dt><dd>nearest-station, nearestStormDistance, visibility</dd></dl>
-<dl><dt>Precip Intensity</dt><dd>precipIntensity, precipIntensityMax</dd></dl>
-<dl><dt>Precip Accumulation (snowfall)</dt><dd>precipAccumulation</dd></dl>
-<dl><dt>Pressure</dt><dd>pressure</dd></dl>
+**Wind Speed**  
+`windGust`, `windSpeed`
+
+**Distance**  
+`nearest-station`, `nearestStormDistance`, `visibility`
+
+**Precip Intensity**  
+`precipIntensity`, `precipIntensityMax`
+
+**Precip Accumulation (snowfall)**  
+`precipAccumulation`
+
+**Pressure**  
+`pressure`
 
 ### Common
-<dl><dt>% (Percent)</dt><dd>cloudCover, humidity, precipProbability</dd></dl>
-<dl><dt>° (Degrees)</dt><dd>nearestStormBearing, windBearing</dd></dl>
-<dl><dt>DU (Dobson units)</dt><dd>ozone</dd></dl>
+**% (Percent)**  
+`cloudCover`, `humidity`, `precipProbability`
+
+**° (Degrees)**  
+`nearestStormBearing`, `windBearing`
+
+**DU (Dobson units)**  
+`ozone`
 
 
 
@@ -36,4 +50,3 @@
 [Metrication Conversion process](https://en.wikipedia.org/wiki/Metrication#Conversion_process)
 
 [Dobson units](https://en.wikipedia.org/wiki/Dobson_unit)
-

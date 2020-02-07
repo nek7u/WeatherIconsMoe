@@ -23,7 +23,7 @@
 **Precip Intensity**  
 `precipIntensity`, `precipIntensityMax`
 
-**Precip Accumulation (snowfall)**  
+**Precip Accumulation** (snowfall)  
 `precipAccumulation`
 
 **Pressure**  

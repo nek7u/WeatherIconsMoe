@@ -28,7 +28,7 @@
 
 **Pressure**  
 `pressure`  
-uk2: **hPa** (Hectopascals), but **mbar** (Millibar) common use in U.K.
+uk2: **hPa** (Hectopascals), **mbar** (Millibar) in U.K. BBC.
 
 ### Common
 **% (Percent)**  

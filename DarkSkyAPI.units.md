@@ -42,11 +42,8 @@
 
 
 >### Links
-
-[International System of Units](https://en.wikipedia.org/wiki/International_System_of_Units)
-
-[Imperial units](https://en.wikipedia.org/wiki/Imperial_units)
-
-[Metrication Conversion process](https://en.wikipedia.org/wiki/Metrication#Conversion_process)
+[International System of Units](https://en.wikipedia.org/wiki/International_System_of_Units)  
+[Imperial units](https://en.wikipedia.org/wiki/Imperial_units)  
+[Metrication Conversion process](https://en.wikipedia.org/wiki/Metrication#Conversion_process)  
 
 

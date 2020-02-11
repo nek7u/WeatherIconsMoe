@@ -20,10 +20,10 @@
 **Distance**  
 `nearest-station`, `nearestStormDistance`, `visibility`
 
-**Precip Intensity**  
+**Precip Intensity** (rain)  
 `precipIntensity`, `precipIntensityMax`
 
-**Precip Accumulation** (snowfall)  
+**Precip Accumulation** (snow)  
 `precipAccumulation`
 
 **Pressure**  

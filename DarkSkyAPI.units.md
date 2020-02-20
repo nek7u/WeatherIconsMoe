@@ -1,5 +1,6 @@
->### [Dark Sky API Request Parameters][1]
-[1]:https://darksky.net/dev/docs#forecast-request
+### Units of Measure
+`https://api.darksky.net/forecast/[key]/[latitude],[longitude]?exclude=[blocks]&lang=[language]&units=[units]`
+
 #### units=[units] 
 
 |units|si|ca|uk2|us|auto|
@@ -43,6 +44,7 @@ uk2: **hPa** (Hectopascals), but **mbar** (Millibar) by BBC in U.K.
 
 
 >### Links
+[Dark Sky API Request Parameters](https://darksky.net/dev/docs#forecast-request)
 [International System of Units](https://en.wikipedia.org/wiki/International_System_of_Units)  
 [Imperial units](https://en.wikipedia.org/wiki/Imperial_units)  
 [Metrication Conversion process](https://en.wikipedia.org/wiki/Metrication#Conversion_process)  

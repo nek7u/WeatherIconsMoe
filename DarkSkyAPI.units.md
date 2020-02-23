@@ -32,8 +32,9 @@
 `pressure`  
 uk2: **hPa** (Hectopascals), but **mbar** (Millibar) by BBC in U.K. 
 
-**Barometer** en-US  
-[Pressure hPa|mbar] = [Barometer in(inHg)] x 33.8639
+**Barometer**  
+[Barometer in(inHg)] = [Pressure hPa|mbar] / 33.8639
+en-US  
 
 ### Common
 **% (Percent)**  

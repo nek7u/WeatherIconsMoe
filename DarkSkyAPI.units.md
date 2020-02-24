@@ -11,7 +11,6 @@
 |Precip Intensity|**mm/h**  (Millimeters per hour)|**mm/h**  (Millimeters per hour)|**mm/h**  (Millimeters per hour)|**in/h**  (Inches per hour)|-|
 |Precip Accumulation|**cm**  (Centimeters)|**cm**  (Centimeters)|**cm**  (Centimeters)|**in**  (Inches)|-|
 |Pressure|**hPa**  (Hectopascals)|**hPa**  (Hectopascals)|**hPa**  (Hectopascals)|**mbar**  (Millibar)|-|
-|Barometer|-|-|-|**in**  (inHg - Inches of Mercury)|-|
 
 **Temperature**  
 ~~`apparentTemperatureHigh`~~, ~~`apparentTemperatureLow`~~, `apparentTemperatureMax`, `apparentTemperatureMin`, `dewPoint`, `Temperature`, ~~`temperatureHigh`~~, ~~`temperatureLow`~~, `temperatureMax`, `temperatureMin`  
@@ -32,7 +31,7 @@
 `pressure`  
 uk2: **hPa** (Hectopascals), but **mbar** (Millibar) by BBC in U.K. 
 
-**Barometer**  
+**Barometer** | **in** (inHg - Inches of Mercury)  
 [Barometer in(inHg)] = [Pressure hPa|mbar] / 33.8639  
 en-US  
 

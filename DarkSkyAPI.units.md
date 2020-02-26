@@ -29,10 +29,12 @@
 
 **Pressure**  
 `pressure`  
+`hPa = mbar`  
 uk2(en-GB): **hPa** (Hectopascals), but **mbar** (Millibar) by BBC in U.K.  
 us(en-US): **mbar** (Millibar), but **in** (inHg - Inches of Mercury)  
-[Barometer in(inHg)] = [Pressure hPa|mbar] / 33.8639  
+`in(inHg) = hPa / 33.8639`  
 ca(en-CA,	fr-CA): **hPa**  (Hectopascals), but **kPa** by CBC in Canada  
+`kPa = hPa / 10`  
 
 ### Common
 **% (Percent)**  

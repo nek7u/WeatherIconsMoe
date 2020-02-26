@@ -10,7 +10,7 @@
 |Distance|**km**  (Kilometers)|**km**  (Kilometers)|**mi**  (Miles)|**mi**  (Miles)|-|
 |Precip Intensity|**mm/h**  (Millimeters per hour)|**mm/h**  (Millimeters per hour)|**mm/h**  (Millimeters per hour)|**in/h**  (Inches per hour)|-|
 |Precip Accumulation|**cm**  (Centimeters)|**cm**  (Centimeters)|**cm**  (Centimeters)|**in**  (Inches)|-|
-|Pressure|**hPa**  (Hectopascals)|**hPa**  (Hectopascals)|***hPa**  (Hectopascals)|***mbar**  (Millibar)|-|
+|Pressure|**hPa**  (Hectopascals)|***hPa**  (Hectopascals)|***hPa**  (Hectopascals)|***mbar**  (Millibar)|-|
 
 **Temperature**  
 ~~`apparentTemperatureHigh`~~, ~~`apparentTemperatureLow`~~, `apparentTemperatureMax`, `apparentTemperatureMin`, `dewPoint`, `Temperature`, ~~`temperatureHigh`~~, ~~`temperatureLow`~~, `temperatureMax`, `temperatureMin`  

@@ -5,6 +5,8 @@
 |Distance|**km**  (Kilometers)|**km**  (Kilometers)|**mi**  (Miles)|**mi**  (Miles)|
 |Visibility|**km**  (Kilometers)|**km**  (Kilometers)|**km**  (Kilometers)|**mi**  (Miles)|
 |Altitude|**m**  (Meters)|**m**  (Meters)|**ft**  (Feet)|**ft**  (Feet)|
-|Wave Height|  |**m**  (Meters)|**ft**  (Feet)|**ft**  (Feet)|
+|Wave Height|**m**  (Meters)|**m**  (Meters)|**ft**  (Feet)|**ft**  (Feet)|
 |Wind Speed|**m/s**  (Meters per second)|**km/h**  (Kilometers per hour)|**mph**  (Miles per hour)|**mph**  (Miles per hour)|
+|Precip. Rain|**mm**  (Millimeters)|**mm**  (Millimeters)|**mm**  (Millimeters)|**in**  (Inches)|
+|Precip. Snow|**cm**  (Centimeters)|**cm**  (Centimeters)|**cm**  (Centimeters)|**in**  (Inches)|
 

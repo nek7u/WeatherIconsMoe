@@ -1,8 +1,7 @@
 ### Units of Measure
 `https://api.darksky.net/forecast/[key]/[latitude],[longitude]?exclude=[blocks]&lang=[language]&units=[units]`
 
-#### units=[units] 
-
+Dark Sky API response  
 |units|si|ca|uk2|us|auto|
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 |Temperature|**°C**  (Degrees Celsius)|**°C**  (Degrees Celsius)|**°C**  (Degrees Celsius)|**°F**  (Degrees Fahrenheit)|-|

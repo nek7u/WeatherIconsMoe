@@ -29,7 +29,7 @@ Dark Sky API response
 **Pressure**  
 `pressure`  
 
-uk2(en-GB): **hPa** (Hectopascals), but **mbar** (Millibar) by BBC in U.K.  
+uk2(en-GB): **hPa** (Hectopascals), but **mb(mbar)** (Millibar) by BBC in U.K.  
 `mbar = hPa`  
 us(en-US): **mbar** (Millibar), but **in** (inHg - Inches of Mercury)  
 `in(inHg) = hPa / 33.8639`  

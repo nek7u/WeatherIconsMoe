@@ -3,7 +3,7 @@ weather.com response
 |units|s  (SI)|m  (Metric)|h  (Hybrid, en-GB)|e  (Imperial, en-US)|
 |:----------:|:----------:|:----------:|:----------:|:----------:|
 |Temperature|**°C**  (Degrees Celsius)|**°C**  (Degrees Celsius)|**°C**  (Degrees Celsius)|**°F**  (Degrees Fahrenheit)|
-|Pressure|**mb**  (Millibars)|**mb**  (Millibars)|**mb**  (Millibars)|**in**  (Inches of mercury)|
+|Pressure|**mbar**  (Millibars)|**mbar**  (Millibars)|**mbar**  (Millibars)|**in**  (Inches of mercury)|
 |Distance|**m**  (Meters)|**km**  (Kilometers)|**mi**  (Miles)|**mi**  (Miles)|
 |Visibility|**km**  (Kilometers)|**km**  (Kilometers)|**km**  (Kilometers)|**mi**  (Miles)|
 |Altitude|**m**  (Meters)|**m**  (Meters)|**ft**  (Feet)|**ft**  (Feet)|

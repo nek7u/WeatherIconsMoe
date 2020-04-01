@@ -1,3 +1,5 @@
+### [API will be shutdown at 2021-12-31 (December 31, 2021)](https://blog.darksky.net/dark-sky-has-a-new-home/)
+
 ### Units of Measure
 `https://api.darksky.net/forecast/[key]/[latitude],[longitude]?exclude=[blocks]&lang=[language]&units=[units]`
 

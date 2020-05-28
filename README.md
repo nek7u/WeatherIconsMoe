@@ -5,7 +5,7 @@ Rainmeter Skin
 [weather.com - units](Weather.com.units.md)
 ***
 Rainmeter  
-WebParser Measure vs. RunCommand plugin + curl.exe
+[WebParser Measure vs. RunCommand plugin + curl.exe](WebParser_cURL.md)
 >### Links
 [International System of Units](https://en.wikipedia.org/wiki/International_System_of_Units)  
 [Imperial units](https://en.wikipedia.org/wiki/Imperial_units)  

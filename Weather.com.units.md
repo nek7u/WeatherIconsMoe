@@ -12,3 +12,9 @@ weather.com response
 |Precip. Rain|**mm**  (Millimeters)|**mm**  (Millimeters)|**mm**  (Millimeters)|**in**  (Inches)|
 |Precip. Snow|**cm**  (Centimeters)|**cm**  (Centimeters)|**cm**  (Centimeters)|**in**  (Inches)|
 
+>### Time Periods
+weather.com Daily Forecast daypart
+|dayOrNight|Local Standard Time|
+|:------:|:------:|
+|D|07:00-19:00|
+|N|19:00-07:00|

@@ -7,17 +7,6 @@ Rainmeter Skin
 >### Rainmeter
 [WebParser Measure vs. RunCommand plugin + curl.exe](WebParser_cURL.md)
 >### Time Periods
-weather.com Daily Forecast daypart
-|dayOrNight|Local Standard Time|
-|:------:|:------:|
-|D|07:00-19:00|
-|N|19:00-07:00|
-
-darksky.net Summaries and icons on daily data [Dark Sky API Notes](https://darksky.net/dev/docs#response-notes)
-|Period|Local Standard Time|
-|:------:|:------:|
-|1Day|04:00-04:00|
-
 NWS(National Weather Service, United States) [Forecast Terms](https://www.weather.gov/bgm/forecast_terms)
 |Forecast Time Period|Local Standard Time|
 |:------:|:------:|

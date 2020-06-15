@@ -43,7 +43,7 @@ NWS(National Weather Service, United States) [Forecast Terms](https://www.weathe
 |昼過ぎ|12:00-15:00|
 |夕方|15:00-18:00|
 |夜はじめ頃|18:00-21:00|
-|夜遅く|21:00-24:00|
+|夜遅く|21:00-00:00|
 
 >### Weather related
 [International System of Units](https://en.wikipedia.org/wiki/International_System_of_Units) (SI units)  

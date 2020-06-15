@@ -48,7 +48,11 @@ ca(en-CA,	fr-CA): **hPa**  (Hectopascals), but **kPa** by CBC in Canada
 **DU ([Dobson units](https://en.wikipedia.org/wiki/Dobson_unit))**  
 `ozone`
 
-
+>### Time Periods
+darksky.net Summaries and icons on daily data [Dark Sky API Notes](https://darksky.net/dev/docs#response-notes)
+|Period|Local Standard Time|
+|:------:|:------:|
+|1Day|04:00-04:00|
 
 >### Links
 [Dark Sky API Request Parameters](https://darksky.net/dev/docs#forecast-request)  

@@ -1,0 +1,14 @@
+
+{"id": "35.6918,139.6311",  "v3-wx-observations-current": 
+
+   {"cloudCeiling":25000,"cloudCoverPhrase":"大体曇り","dayOfWeek":"水曜","dayOrNight":"N","expirationTimeUtc":1609259871,"iconCode":27,"iconCodeExtend":2700,"obsQualifierCode":null,"obsQualifierSeverity":null,"precip1Hour":0.0,"precip6Hour":0.0,"precip24Hour":0.0,"pressureAltimeter":1006.77,"pressureChange":-4.4,"pressureMeanSeaLevel":1006.3,"pressureTendencyCode":2,"pressureTendencyTrend":"低下","relativeHumidity":79,"snow1Hour":0.0,"snow6Hour":0.0,"snow24Hour":0.0,"sunriseTimeLocal":"2020-12-30T06:51:01+0900","sunriseTimeUtc":1609278661,"sunsetTimeLocal":"2020-12-30T16:37:36+0900","sunsetTimeUtc":1609313856,"temperature":7,"temperatureChange24Hour":1,"temperatureDewPoint":3,"temperatureFeelsLike":6,"temperatureHeatIndex":7,"temperatureMax24Hour":13,"temperatureMaxSince7Am":13,"temperatureMin24Hour":3,"temperatureWindChill":6,"uvDescription":"弱い","uvIndex":0,"validTimeLocal":"2020-12-30T01:27:51+0900","validTimeUtc":1609259271,"visibility":14.48,"windDirection":230,"windDirectionCardinal":"南西","windGust":null,"windSpeed":2,"wxPhraseLong":"大体曇り","wxPhraseMedium":null,"wxPhraseShort":null}
+ 
+      , "v2fcstwwir": 
+
+   {"metadata":{"language":"ja-JP","transaction_id":"1609259412729:-598342330","version":"1","latitude":35.69,"longitude":139.63,"units":"s","expire_time_gmt":1609260012,"status_code":200},"forecast":{"class":"fod_short_range_wwir","expire_time_gmt":1609260012,"fcst_valid":1609261200,"fcst_valid_local":"2020-12-30T02:00:00+0900","overall_type":1,"phrase":"水曜の08:15頃に雨になるかもしれません。","terse_phrase":"08:15頃に雨になるかもしれません。","phrase_template":"{{day}}の{{time}}頃に雨になるかもしれません。","terse_phrase_template":"{{time}}頃に雨になるかもしれません。","precip_day":"水曜","precip_time_24hr":"08:15","precip_time_12hr":"8:15午前","precip_time_iso":null,"time_zone_abbrv":"JST"}}
+ 
+      , "v2fcstprecip": 
+
+   {"metadata":{"language":"ja-JP","transaction_id":"1609259412736:-1527023595","version":"1","latitude":35.69,"longitude":139.63,"units":"s","expire_time_gmt":1609260012,"status_code":200},"forecasts":[{"class":"fod_short_range_precipitation","expire_time_gmt":1609260012,"num":1,"event_start":1609260300,"event_end":1609283700,"event_start_local":"2020-12-30T01:45:00+0900","event_end_local":"2020-12-30T08:15:00+0900","event_type":0,"intensity":0,"severity":1,"characteristic":0,"imminence":0,"qpf":0.0,"snow_qpf":0.0},{"class":"fod_short_range_precipitation","expire_time_gmt":1609260012,"num":2,"event_start":1609283700,"event_end":1609285500,"event_start_local":"2020-12-30T08:15:00+0900","event_end_local":"2020-12-30T08:45:00+0900","event_type":1,"intensity":2,"severity":1,"characteristic":2,"imminence":0,"qpf":0.56,"snow_qpf":0.0}]}
+ 
+      }

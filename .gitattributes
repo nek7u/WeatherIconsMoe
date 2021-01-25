@@ -11,5 +11,5 @@
 /m export-ignore
 
 # https://github.com/github/linguist/#using-gitattributes
-*.html linguist-vendored
-*.css linguist-vendored
+*.html linguist-documentation
+*.css linguist-documentation
